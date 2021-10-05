@@ -1,26 +1,20 @@
-.tt-favorite-card-1 {
+.tt-favorite-card {
+  background-color: #000000;
+  width: 10rem;
+  height: 10rem;
+  display: grid;
+  place-items: center;
+  border-radius: 2rem;
+}
+.tt-favorite-card--Fruits {
   background-color: #fff2f0;
-  width: 10rem;
-  height: 10rem;
-  display: grid;
-  place-items: center;
-  border-radius: 2rem;
 }
-.tt-favorite-card-2 {
+
+.tt-favorite-card--Vegetables {
   background-color: #eff7ee;
-  width: 10rem;
-  height: 10rem;
-  display: grid;
-  place-items: center;
-  border-radius: 2rem;
 }
-.tt-favorite-card-3 {
+.tt-favorite-card--Snacks {
   background-color: #fff8eb;
-  width: 10rem;
-  height: 10rem;
-  display: grid;
-  place-items: center;
-  border-radius: 2rem;
 }
 
 .tt-favorite-card-inside {
@@ -28,16 +22,19 @@
   justify-items: center;
   row-gap: 0.5em;
 }
+.tt-favorite-card-text {
+  color: #000000;
+}
 
-.tt-favorite-card-text-1 {
+.tt-favorite-card-text--Fruits {
   color: #4d0a00;
 }
 
-.tt-favorite-card-text-2 {
+.tt-favorite-card-text--Vegetables {
   color: #1c3418;
 }
 
-.tt-favorite-card-text-3 {
+.tt-favorite-card-text--Snacks {
   color: #4d3200;
 }
 
