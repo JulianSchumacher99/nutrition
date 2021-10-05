@@ -1,0 +1,47 @@
+.tt-favorite-card-1 {
+  background-color: #fff2f0;
+  width: 10rem;
+  height: 10rem;
+  display: grid;
+  place-items: center;
+  border-radius: 2rem;
+}
+.tt-favorite-card-2 {
+  background-color: #eff7ee;
+  width: 10rem;
+  height: 10rem;
+  display: grid;
+  place-items: center;
+  border-radius: 2rem;
+}
+.tt-favorite-card-3 {
+  background-color: #fff8eb;
+  width: 10rem;
+  height: 10rem;
+  display: grid;
+  place-items: center;
+  border-radius: 2rem;
+}
+
+.tt-favorite-card-inside {
+  display: grid;
+  justify-items: center;
+  row-gap: 0.5em;
+}
+
+.tt-favorite-card-text-1 {
+  color: #4d0a00;
+}
+
+.tt-favorite-card-text-2 {
+  color: #1c3418;
+}
+
+.tt-favorite-card-text-3 {
+  color: #4d3200;
+}
+
+.tt-favorite-cards-container {
+  display: flex;
+  gap: 2em;
+}
