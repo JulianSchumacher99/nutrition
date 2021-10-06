@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  font-family: "Signika", sans-serif;
+  font-family: var(--primary-font-family);
   margin: 0;
 }
 
