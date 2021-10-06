@@ -10,9 +10,11 @@
   --primary-background: #fff;
   --primary-color: #91c788;
   --secondary-color: #ff8473;
+  --tertiary-color: #fff8ee;
   --primary-font-family: "Signika", sans-serif;
   --primary-font-color-text: #707070;
   --primary-font-color-heading: #000;
+  --primary-btn-color: #fff;
 }
 
 html {
